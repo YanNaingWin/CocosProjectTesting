@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "coinFlipAnim",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "38",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "23f56521-d536-4b8c-9d7f-584accebe971"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "cf79d2a9-18af-47ea-97d0-141eed7f0d37"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "d75611f5-87bc-404f-bf59-83a1c0b02c8f"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "cf79d2a9-18af-47ea-97d0-141eed7f0d37"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "8c2932c7-f67e-428c-a0a6-f4ec8fd6f1db"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "8c384b75-51f6-4394-b06c-da198f394205"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
